@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/testoReact/static/css/main.10f16b37.chunk.css",
+    "main.js": "/testoReact/static/js/main.a7a1bf6d.chunk.js",
+    "main.js.map": "/testoReact/static/js/main.a7a1bf6d.chunk.js.map",
+    "runtime-main.js": "/testoReact/static/js/runtime-main.85b1968e.js",
+    "runtime-main.js.map": "/testoReact/static/js/runtime-main.85b1968e.js.map",
+    "static/css/2.2f6de8d0.chunk.css": "/testoReact/static/css/2.2f6de8d0.chunk.css",
+    "static/js/2.f2cdbc1a.chunk.js": "/testoReact/static/js/2.f2cdbc1a.chunk.js",
+    "static/js/2.f2cdbc1a.chunk.js.map": "/testoReact/static/js/2.f2cdbc1a.chunk.js.map",
+    "index.html": "/testoReact/index.html",
+    "static/css/2.2f6de8d0.chunk.css.map": "/testoReact/static/css/2.2f6de8d0.chunk.css.map",
+    "static/css/main.10f16b37.chunk.css.map": "/testoReact/static/css/main.10f16b37.chunk.css.map",
+    "static/js/2.f2cdbc1a.chunk.js.LICENSE.txt": "/testoReact/static/js/2.f2cdbc1a.chunk.js.LICENSE.txt",
+    "static/media/flaticon.css": "/testoReact/static/media/Flaticon.dd6b13fe.woff",
+    "static/media/style.css": "/testoReact/static/media/reviews.f108bb20.jpg",
+    "static/media/all.css": "/testoReact/static/media/fa-solid-900.68d96f7e.woff2",
+    "static/media/logo.9d9c5ad9.png": "/testoReact/static/media/logo.9d9c5ad9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85b1968e.js",
+    "static/css/2.2f6de8d0.chunk.css",
+    "static/js/2.f2cdbc1a.chunk.js",
+    "static/css/main.10f16b37.chunk.css",
+    "static/js/main.a7a1bf6d.chunk.js"
+  ]
+}
